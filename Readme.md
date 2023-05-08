@@ -3,7 +3,7 @@
 
 The project  uses daily rainfall data from 1st June to 12th November(165 days) to simulate the water content in the soil layers at an intermediary time point with the given soil and crop characteristics. Soil layer at a point is a one dimensional entity, spanning surface on the ground till a certain depth.  All quantities are therefore expressed in mm/meters.  Soil water balance is the distribution of rainfall (mm) into runoff, soil moisture, crop uptake and groundwater recharge.
 
-![Visualization for soil water balance](.\images\visualization.png "Visualization")
+![Visualization for soil water balance](/images/visualization.png "Visualization")
 
 Conditions used for the simulation:
 
@@ -38,7 +38,7 @@ python3 -u main.py
 ```
 
 ## Results
-![Deep - Shallow comparison](.\images\plot.png "Simulation")
+![Deep - Shallow comparison](/images/plot.png "Simulation")
 
 
 [Report Link](https://docs.google.com/document/d/1UM8dhPNutkYMMUpYnLMKuBbkwl-fSnNlT2vLhlq-XQ0/edit?usp=sharing)
